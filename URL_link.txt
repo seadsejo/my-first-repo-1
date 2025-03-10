@@ -1,0 +1,5 @@
+https://github.com/seadsejo/my-first-repo-1.git
+
+# Kada sam pokusao da push-am izmjene samo mi je prikazivalo gresku zbog 
+kredencijala kao u videu vezanom za lekciju i onda sam u 'sorce control'-u 
+pokusao i ponudilo mi je opciju fork i to sam odabrao pa mislim da je to to.
